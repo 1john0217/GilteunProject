@@ -1,2 +1,2 @@
 # GilteunProject
-길튼프로젝트.
+길튼프로젝트
